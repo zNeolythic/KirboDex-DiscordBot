@@ -32,5 +32,4 @@ static
 .pytest_cache
 
 # settings
-config.yml
 docker-compose.override.yml
