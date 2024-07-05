@@ -1,6 +1,5 @@
 # KirboDex-DiscordBot
 
-[![Pre-commit](https://github.com/zneolythic/KirboDex-DiscordBot/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/zneolythic/KirboDex-DiscordBot/actions/workflows/pre-commit.yml)
 [![discord.py](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/Rapptz/discord.py)
 [![Black coding style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 [![El Laggron's Patreon](https://img.shields.io/badge/Patreon-donate-orange.svg)](https://patreon.com/retke)
