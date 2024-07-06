@@ -1,5 +1,5 @@
 # KirboDex-DiscordBot
-[![Discord server](https://discordapp.com/api/guilds/1049118743101452329/embed.png)](https://discord.gg/vUzHXxnuRs)
+[![Discord server](https://discordapp.com/api/guilds/1249182695104450674/embed.png)](https://discord.gg/vUzHXxnuRs)
 [![discord.py](https://img.shields.io/badge/discord-py-blue.svg)](https://github.com/Rapptz/discord.py)
 [![Black coding style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 [![El Laggron's Patreon](https://img.shields.io/badge/Patreon-donate-orange.svg)](https://patreon.com/retke)
@@ -12,7 +12,7 @@ You can invite the official bot [here](https://discord.com/oauth2/authorize?clie
 
 For help installing the bot, questions, suggestions to improve or contributions, feel free to join the official community of developers and self-hosters!
 
-[![Discord server](https://discord.com/api/guilds/1255250024741212262/embed.png?style=banner3)](https://discord.gg/vUzHXxnuRs)
+[![Discord server](https://discord.com/api/guilds/1249182695104450674/embed.png?style=banner3)](https://discord.gg/vUzHXxnuRs)
 
 ## Documentation
 
