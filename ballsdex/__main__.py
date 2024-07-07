@@ -74,7 +74,7 @@ def reset_settings(path: Path):
 def print_welcome():
     print("[green]{0:-^50}[/green]".format(f" {settings.bot_name} bot "))
     print("[green]{0: ^50}[/green]".format(f" Collect {settings.collectible_name}s "))
-    print("[blue]{0:^50}[/blue]".format("Discord bot made by El Laggron"))
+    print("[blue]{0:^50}[/blue]".format("Discord bot made by zNeolythic"))
     print("")
     print(" [red]{0:<20}[/red] [yellow]{1:>10}[/yellow]".format("Bot version:", bot_version))
     print(
